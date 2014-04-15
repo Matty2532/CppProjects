@@ -11,6 +11,6 @@ int main(){
 	cout << sum << endl;
 
 	cout << "Press enter to continue...";
-	std::cin.get();
+	cin.get();
 	return 0;
 }

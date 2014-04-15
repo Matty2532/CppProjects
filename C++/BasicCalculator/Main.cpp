@@ -16,6 +16,6 @@ int main(){
 
 	std::cin.get();
 	cout << "Press enter to continue...";
-	std::cin.get();
+	cin.get();
 	return 0;
 }

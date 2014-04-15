@@ -5,6 +5,6 @@ using namespace std;
 int main(){
 
 	cout << "Press enter to continue...";
-	std::cin.get();
+	cin.get();
 	return 0;
 }
