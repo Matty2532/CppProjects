@@ -7,3 +7,4 @@ Initial commit of the Variables C++ project
 Initial commit of the BasicCalculator C++ project  
 Initial commit of the BasicArithmetic C++ project  
 Initial commit of the IfStatement C++ project  
+Initial commit of the Functions C++ project  
